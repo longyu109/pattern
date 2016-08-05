@@ -1,0 +1,8 @@
+.settings
+.ideal
+
+.classpath
+.project
+target
+*.class
+
